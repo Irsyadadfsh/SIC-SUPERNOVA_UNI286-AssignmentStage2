@@ -26,8 +26,21 @@ Assignment yang kami kerjakan ini bertujuan untuk menghubungkan **ESP32** dengan
 3. **Mengirimkan data ke Flask API**, yang kemudian menyimpan data di MongoDB
 4. **Menampilkan data secara real-time di Ubidots** menggunakan widget
 
+
 ## 🖼️ Foto Rangkaian
 <p align="center">
   <img src = "image/gambar1.jpg" width=700>
+</p>
+<p align="center">
+  <img src = "image/gambar2.jpg" width=700>
+</p>
+<p align="center">
+  <img src = "image/gambar3.jpg" width=700>
+</p>
+<p align="center">
+  <img src = "image/gambar4.jpg" width=700>
+</p>
+<p align="center">
+  <img src = "image/gambar5.jpg" width=700>
 </p>
 
