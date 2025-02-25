@@ -43,4 +43,7 @@ Assignment yang kami kerjakan ini bertujuan untuk menghubungkan **ESP32** dengan
 <p align="center">
   <img src = "image/gambar5.jpg" width=700>
 </p>
+<p align="center">
+  <img src = "image/gambar6.jpg" width=700>
+</p>
 
