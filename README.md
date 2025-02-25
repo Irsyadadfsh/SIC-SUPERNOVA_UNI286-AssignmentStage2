@@ -1,7 +1,7 @@
 # SIC-SUPERNOVA_UNI286-AssignmentStage2
 
 ## 📌 Deskripsi Singkat
-Assignment yang kami kerjakan ini bertujuan untuk menghubungkan **ESP32** dengan sensor **DHT11 (suhu & kelembaban)** dan **light-dependent resistor (LDR) atau photoresistor (intensitas cahaya)**, lalu mengirimkan data ke **Ubidots** untuk divisualisasikan menggunakan widget. Selain itu, data juga dikirim ke **MongoDB** melalui backend berbasis **Flask**, sehingga dapat digunakan untuk analisis lebih lanjut.
+Assignment ini bertujuan untuk memenuhi penugasan stage 2 assignment 2 pada bootcamp samsung Innovate campus batch 6.Dalam assignment ini kami menghubungkan **ESP32** dengan sensor **DHT11 (suhu & kelembaban)** dan **light-dependent resistor (LDR) atau photoresistor (intensitas cahaya)**, lalu mengirimkan data ke **Ubidots** untuk divisualisasikan menggunakan widget. Selain itu, data juga dikirim ke **MongoDB** melalui backend berbasis **Flask**, sehingga dapat digunakan untuk analisis lebih lanjut.
 
 ## 🎯 Fitur Utama
 - ✅ **ESP32 sebagai perangkat utama** untuk membaca data sensor
